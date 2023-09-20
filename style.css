@@ -7,3 +7,9 @@ h1{
     text-align: center;
     color: red;
 }
+p{
+    text-align: center;
+    padding: 20px;
+    border: 2px solid red;
+    margin: 15px;
+}
